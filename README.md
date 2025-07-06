@@ -3,7 +3,7 @@ This Power Bi project presents a comprehensive Financial Health Dashboard design
 
 Power BI Features Used:-
 
-DAX measures and calculated columns
-Bookmarks and drill-through pages
-Dynamic slicers and custom tooltips
-Custom visuals (KPI, matrix, waterfall, donut charts)
+DAX measures and calculated columns,
+Bookmarks and drill-through pages,
+Dynamic slicers and custom tooltips,
+Custom visuals (KPI, matrix, waterfall, donut charts).
