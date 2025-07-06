@@ -30,3 +30,5 @@ Power BI Features Used:-
 2)Bookmarks and drill-through pages,
 3)Dynamic slicers and custom tooltips,
 4)Custom visuals (KPI, matrix, waterfall, donut charts).
+
+![image alt](https://github.com/Gaurabhsaha/CodeAlpha_Financial_Health_Dashboard/blob/463e7701de315835a3645ac0f5a9d274f88e28bf/Screenshot%20(29).png)
