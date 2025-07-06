@@ -33,4 +33,4 @@ Power BI Features Used:-
 
 ![image alt](https://github.com/Gaurabhsaha/CodeAlpha_Financial_Health_Dashboard/blob/a42ae13dd2ea18422418d3dcfc1184458928c859/Screenshot%20(27).png)
 ![image alt](https://github.com/Gaurabhsaha/CodeAlpha_Financial_Health_Dashboard/blob/ab1a284af36c89db27b222642bc1d4e19eb1b9dd/Screenshot%20(26).png)
-![image alt]()
+![image alt](https://github.com/Gaurabhsaha/CodeAlpha_Financial_Health_Dashboard/blob/3c44f3343339d59b25fd5c4617e9491cc0baf82a/Screenshot%20(29).png)
